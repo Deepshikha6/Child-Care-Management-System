@@ -1,0 +1,12 @@
+/SilverLining/db4odemo/nbproject/private/
+/
+SilverLining/db4odemo/build/*
+/SilverLining/db4odemo/nbbuild/
+
+/SilverLining/db4odemo/dist/
+
+/SilverLining/db4odemo/nbdist/
+
+/SilverLining/db4odemo/.nb-gradle/
+
+/nbproject/private/
